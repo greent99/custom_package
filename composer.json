@@ -1,0 +1,17 @@
+{
+    "name": "greent/handle_array_package_1",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Greent\\HandleArrayPackage1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "plugins-nta",
+            "email": "plugins.nta@gmail.com"
+        }
+    ],
+    "require": {}
+}
